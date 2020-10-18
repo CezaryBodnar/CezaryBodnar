@@ -5,7 +5,7 @@
 
 Hej! Nazywam się Czarek, jestem frontend developerem. 
 
-![enter image description here](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&url=https%3A%2F%2Fwww.google.com)
+![enter image description here](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/piotr-czajkowski-reda/)
 ![enter image description here](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white)
 
 ## Technologies
