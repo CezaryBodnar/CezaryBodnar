@@ -12,7 +12,7 @@ Hej! Nazywam się Czarek, jestem frontend developerem.
 
 For my projects I mainly using:
 
-![enter image description here](ht<span>tps://</span>img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white)
+![enter image description here](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&labelColor=black&logoColor=white)
 
