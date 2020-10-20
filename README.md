@@ -41,9 +41,10 @@ Technologies used for this project:
 💻[Demo](https://listazakupow.netlify.app/) 
 
 Technologies used for this project:
--
--
--
+- React
+- 
+- 
+
 
 
 **3. Timer workout app**
@@ -52,7 +53,8 @@ Technologies used for this project:
 💻[Demo](https://listazakupow.netlify.app/) 
 
 Technologies used for this project:
+- React
 - 
--
 - 
+
 
