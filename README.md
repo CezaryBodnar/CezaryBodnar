@@ -24,5 +24,14 @@ For my projects I mainly using:
 
 ## My projects
 
-1.
+**1. React Pick'em**
+
+📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
+💻[Demo](https://listazakupow.netlify.app/) 
+
+Technologies used for this project:
+- React
+- React beautiful dnd
+- Saving to localStorage
+
 2.
