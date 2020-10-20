@@ -34,4 +34,25 @@ Technologies used for this project:
 - React beautiful dnd
 - Saving to localStorage
 
-2.
+
+**2. Workout app**
+
+📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
+💻[Demo](https://listazakupow.netlify.app/) 
+
+Technologies used for this project:
+-
+-
+-
+
+
+**3. Timer workout app**
+
+📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
+💻[Demo](https://listazakupow.netlify.app/) 
+
+Technologies used for this project:
+- 
+-
+- 
+
