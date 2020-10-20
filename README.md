@@ -27,18 +27,17 @@ For my projects I mainly using:
 **1. React Pick'em**
 
 📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
-💻[Demo](https://listazakupow.netlify.app/) 
+💻[Demo](https://pickem-clone.netlify.app/) 
 
 Technologies used for this project:
 - React
 - React beautiful dnd
 - Saving to localStorage
 
-
 **2. Workout app**
 
-📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
-💻[Demo](https://listazakupow.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/workout-app) 
+💻[Demo](https://workout-app.netlify.app/) 
 
 Technologies used for this project:
 - React
@@ -49,8 +48,8 @@ Technologies used for this project:
 
 **3. Timer workout app**
 
-📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
-💻[Demo](https://pickem-clone.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/countdown-workout-app) 
+💻[Demo](https://countdown-workout.netlify.app/) 
 
 Technologies used for this project:
 - React
