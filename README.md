@@ -50,11 +50,11 @@ Technologies used for this project:
 **3. Timer workout app**
 
 📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
-💻[Demo](https://listazakupow.netlify.app/) 
+💻[Demo](https://pickem-clone.netlify.app/) 
 
 Technologies used for this project:
 - React
-- 
-- 
+- SVG Animation
+- Intervals
 
 
