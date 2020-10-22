@@ -24,7 +24,31 @@ For my projects I mainly using:
 
 ## My projects
 
-**1. React Pick'em**
+
+**1. Workout app**
+
+📜[Code](https://github.com/CezaryBodnar/workout-app) 
+💻[Demo](https://atlas-kalisteniki.netlify.app/) 
+
+Technologies used for this project:
+- React
+- React Router, React Hooks
+- data fetching
+- Components: React-Player, React Editext
+- Saving data to localStorage
+- Moment.js
+
+**2. Infospot component**
+
+📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
+💻[Demo](https://infospot-component.netlify.app/) 
+
+Technologies used for this project:
+- React
+- React-dropzone
+- React hooks
+
+**3. React Pick'em**
 
 📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
 💻[Demo](https://pickem-clone.netlify.app/) 
@@ -34,19 +58,7 @@ Technologies used for this project:
 - React beautiful dnd
 - Saving to localStorage
 
-**2. Workout app**
-
-📜[Code](https://github.com/CezaryBodnar/workout-app) 
-💻[Demo](https://workout-app.netlify.app/) 
-
-Technologies used for this project:
-- React
-- 
-- 
-
-
-
-**3. Timer workout app**
+**4. Timer workout app**
 
 📜[Code](https://github.com/CezaryBodnar/countdown-workout-app) 
 💻[Demo](https://countdown-workout.netlify.app/) 
