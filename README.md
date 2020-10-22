@@ -27,8 +27,8 @@ For my projects I mainly using:
 
 **1. Workout app**
 
-📜[Code](https://github.com/CezaryBodnar/workout-app) 
 💻[Demo](https://atlas-kalisteniki.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/workout-app)
 
 Technologies used for this project:
 - React
@@ -40,8 +40,8 @@ Technologies used for this project:
 
 **2. Infospot component**
 
-📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
 💻[Demo](https://infospot-component.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
 
 Technologies used for this project:
 - React
@@ -50,8 +50,8 @@ Technologies used for this project:
 
 **3. React Pick'em**
 
-📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
 💻[Demo](https://pickem-clone.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
 
 Technologies used for this project:
 - React
@@ -60,8 +60,8 @@ Technologies used for this project:
 
 **4. Timer workout app**
 
-📜[Code](https://github.com/CezaryBodnar/countdown-workout-app) 
 💻[Demo](https://countdown-workout.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/countdown-workout-app) 
 
 Technologies used for this project:
 - React
