@@ -21,7 +21,7 @@ For my projects I mainly using:
 
 ![enter image description here](https://img.shields.io/badge/Git-4f4e4d?style=for-the-badge&logo=git&labelColor=4f4e4d&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&labelColor=FF3366&logoColor=white)
-![enter image description here](https://img.shields.io/badge/Adobe XD-2e001f?style=for-the-badge&logo=adobe-XD&labelColor=2e001f&logoColor=white)
+![enter image description here](https://img.shields.io/badge/AdobeXD-2e001f?style=for-the-badge&logo=adobe-XD&labelColor=2e001f&logoColor=white)
 
 ## My projects
 
