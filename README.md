@@ -21,6 +21,7 @@ For my projects I mainly using:
 
 ![enter image description here](https://img.shields.io/badge/Git-4f4e4d?style=for-the-badge&logo=git&labelColor=4f4e4d&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&labelColor=FF3366&logoColor=white)
+![enter image description here](https://img.shields.io/badge/Adobe XD-2e001f?style=for-the-badge&logo=adobexd&labelColor=2e001f&logoColor=white)
 
 ## My projects
 
@@ -29,7 +30,7 @@ For my projects I mainly using:
 
 💻[Demo](https://atlas-kalisteniki.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/workout-app)
-🎴 [Prototype] (https://cezarybodnar813283.invisionapp.com/prototype/ckgscz80v00lgq4015a1b04te/play)
+🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckgscz80v00lgq4015a1b04te/play)
 
 Technologies used for this project:
 - React
@@ -43,7 +44,7 @@ Technologies used for this project:
 
 💻[Demo](https://infospot-component.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
-🎴 [Prototype] (https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play)
+🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play)
 
 Technologies used for this project:
 - React
