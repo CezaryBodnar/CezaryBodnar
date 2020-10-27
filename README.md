@@ -29,6 +29,7 @@ For my projects I mainly using:
 
 💻[Demo](https://atlas-kalisteniki.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/workout-app)
+🎴 [Prototype] (https://cezarybodnar813283.invisionapp.com/prototype/ckgscz80v00lgq4015a1b04te/play)
 
 Technologies used for this project:
 - React
@@ -42,6 +43,7 @@ Technologies used for this project:
 
 💻[Demo](https://infospot-component.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
+🎴 [Prototype] (https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play)
 
 Technologies used for this project:
 - React
