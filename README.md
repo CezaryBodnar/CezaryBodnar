@@ -30,15 +30,24 @@ For my projects I mainly using:
 
 💻[Demo](https://atlas-kalisteniki.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/workout-app)
-🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckgscz80v00lgq4015a1b04te/play)
+🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckgzatvr900613401kt8bi1wm/play)
+
+Technologies used for this project:
+- HTML5, CSS3, React
+- components: react-lightbox, react-bootstrap/Carousel, react-scroll-to-top
+- Google-Map
+- React router
+
+**2. Builder site**
+
+💻[Demo](https://strona-budowlana.netlify.app/) 
+📜[Code](https://github.com/CezaryBodnar/builder-site) 
+🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play)
 
 Technologies used for this project:
 - React
-- React Router, React Hooks
-- data fetching
-- Components: React-Player, React Editext
-- Saving data to localStorage
-- Moment.js
+- React-dropzone
+- React hooks
 
 **2. Infospot component**
 
