@@ -34,9 +34,12 @@ For my projects I mainly using:
 
 Technologies used for this project:
 - HTML5, CSS3, React
-- components: react-lightbox, react-bootstrap/Carousel, react-scroll-to-top
-- Google-Map
-- React router
+- React-router, React hooks
+- fetching data and images from file/directory,
+- components: react-editext, react-player
+- saving to localStorage
+- moment.js
+
 
 **2. Builder site**
 
@@ -50,7 +53,7 @@ Technologies used for this project:
 - Google-Map
 - React router
 
-**2. Infospot component**
+**3. Infospot component**
 
 💻[Demo](https://infospot-component.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/Infospot-component) 
@@ -61,7 +64,7 @@ Technologies used for this project:
 - React-dropzone
 - React hooks
 
-**3. React Pick'em**
+**4. React Pick'em**
 
 💻[Demo](https://pickem-clone.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/react-pick-em-clone) 
@@ -71,7 +74,7 @@ Technologies used for this project:
 - React beautiful dnd
 - Saving to localStorage
 
-**4. Timer workout app**
+**5. Timer workout app**
 
 💻[Demo](https://countdown-workout.netlify.app/) 
 📜[Code](https://github.com/CezaryBodnar/countdown-workout-app) 
