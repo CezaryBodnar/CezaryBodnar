@@ -45,9 +45,10 @@ Technologies used for this project:
 🎴 [Prototype](https://cezarybodnar813283.invisionapp.com/prototype/ckborxwn1001hob01tfbkx51s/play)
 
 Technologies used for this project:
-- React
-- React-dropzone
-- React hooks
+- HTML5, CSS3, React
+- components: react-lightbox, react-bootstrap/Carousel, react-scroll-to-top
+- Google-Map
+- React router
 
 **2. Infospot component**
 
