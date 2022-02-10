@@ -6,7 +6,7 @@
 Hey! I'm frontend developer. 
 
 [![enter image description here](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/czarek-bodnar-7b3b521b0/)
-[![enter image description here](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white)](mailto:xsimi01x@gmail.com)
+[![enter image description here](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white)](mailto:cezary.bodnar@gmail.com)
 
 ## Technologies
 
